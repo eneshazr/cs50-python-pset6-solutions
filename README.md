@@ -1,3 +1,3 @@
-# cs50-python-pset6-solutions
+# CS50 Python Pset6 Solutions
 
 CS50 Problem Seti 6 Python çözümleri
